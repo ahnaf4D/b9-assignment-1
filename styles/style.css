@@ -369,7 +369,7 @@ input[type="submit"] {
     font-weight: 600;
     text-transform: capitalize;
     border-radius: 0px 50px 50px 0px;
-    margin-left: 0;
+    margin-right: 0;
 }
 
 .subscription_email {
