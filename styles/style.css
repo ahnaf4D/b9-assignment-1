@@ -258,6 +258,7 @@
     margin: 0px auto;
 
 }
+
 .gift-wrap {
     position: absolute;
     top: 0;
@@ -282,6 +283,15 @@
     margin-bottom: 150px;
 }
 
+.products_container {
+    width: 1366px;
+    height: 768px;
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    margin: 0px auto;
+}
 
 
 .offering-products-content {
