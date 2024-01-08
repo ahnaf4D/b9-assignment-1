@@ -282,30 +282,8 @@
     margin-bottom: 150px;
 }
 
-.offering-products-content {
-    text-align: left;
-}
 
-.product {
-    text-align: center;
-}
 
-/*Applying CSS Grid*/
-.prodcut_img{
-    height: 100%;
-    width: 100%; 
-}
-.products_container {
-    /* margin: 0px auto; */
-    width: 100%;
-    display: inline-grid;
-    grid-template-columns: 2fr 2fr 2fr;
-    grid-gap: 1.5em;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-    
-}
 .offering-products-content {
     margin-left: 149px;
 }
